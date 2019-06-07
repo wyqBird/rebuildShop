@@ -5,7 +5,7 @@
 - 开发工具：IDEA、Maven
 - 前端页面：JSP、JQuery、CSS、javascript
 - 后端服务：SpringBoot、MyBatis、Druid、MySQL
-- 中间件：Dubbo、Redis、Zookeeper、ElasticSearch
+- 中间件：Dubbo、Redis、Zookeeper、ElasticSearch、ActiveMQ
 - 版本管理：git
 
 原来使用的是Spring、SpringMVC、MyBatis，没有dubbo，且搜索使用的是Solr。
